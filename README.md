@@ -1,5 +1,7 @@
 # 基于React Redux编写的cnodejs.org社区webapp 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/react-cnode.svg)](https://greenkeeper.io/)
+
 ### 运行
 
 ```shell
